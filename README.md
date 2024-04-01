@@ -29,7 +29,8 @@ Nesta fase a gente precisa criar um documento que seja possível nós automatiza
 3. A planilha tem normalmente uma estrutura fixa (caso o Sislame não mude é claro)
 4. Remova as linhas em branco desta planilha e deixe os nomes das colunas na primeira linha
 5. Se você tiver limpado direitinho você poderá rodar este script: 1. SISLAME PARA FORMULÁRIO/Script - Tabela do Sislame para Forms.ipynb
-6. 
+6. O resultado do script irá criará planilhas separadas por turmas, cada turma terá o seu formulário
+7. 
 
 ## Contribuição
 
