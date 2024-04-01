@@ -28,7 +28,8 @@ Nesta fase a gente precisa criar um documento que seja possível nós automatiza
 2. Esta planilha se encontra em: BI > Relatórios > Alunos > Dados Cadastrais Alunos
 3. A planilha tem normalmente uma estrutura fixa (caso o Sislame não mude é claro)
 4. Remova as linhas em branco desta planilha e deixe os nomes das colunas na primeira linha
-5. 
+5. Se você tiver limpado direitinho você poderá rodar este script: 1. SISLAME PARA FORMULÁRIO/Script - Tabela do Sislame para Forms.ipynb
+6. 
 
 ## Contribuição
 
